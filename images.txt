@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 osrf/ros:galactic-desktop
 pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 ubuntu:20.04
+arm64v8/ros:galactic
