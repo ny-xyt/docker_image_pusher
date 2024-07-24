@@ -5,4 +5,4 @@ arm64v8/ros:galactic
 vinlic/glm-free-api:latest
 homeassistant/aarch64-addon-whisper:latest
 onerahmet/openai-whisper-asr-webservice:v1.5.0
-alexellis2/actuated-ubuntu22.04-aarch64
+alexellis2/actuated-ubuntu22.04-aarch64:dev
