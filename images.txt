@@ -7,3 +7,4 @@ homeassistant/aarch64-addon-whisper:latest
 onerahmet/openai-whisper-asr-webservice:v1.5.0
 balenalib/jetson-agx-orin-devkit-python:3.10-bookworm-build
 ultralytics/ultralytics:latest-jetson-jetpack5
+ultralytics/ultralytics:latest
